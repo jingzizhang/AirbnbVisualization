@@ -1,2 +1,2 @@
 # AirbnbVisualization
-Dashboard created using Airbnb data from Kaggle Competition 
+Dashboard (Conversion Rate) created using Airbnb data from Kaggle Competition 
